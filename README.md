@@ -12,3 +12,5 @@ To run this project you'll need to compile the file Main.py and then type the na
 e.g.:  
 Digite o nome do arquivo (Type the file name): `aabb.mp`  
 Digite a palavra (Type the word): `"aabb"`
+
+If you prefer, there are already some example .mp files above that you can use.
