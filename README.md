@@ -9,5 +9,5 @@ After this step you can save this file in the same folder as the Post Machine si
 
 To run this project you'll need to compile the file Main.py and then type the name of the file you want to run in the machine simulator and the input word.
 
-e.g.: Digite o nome do arquivo (Type the file name): `aabb.mp`  
-      Digite a palavra (Type the word): `"aabb"`
+e.g.: *→*→*→ Digite o nome do arquivo (Type the file name): `aabb.mp`  
+      *→*→*→ Digite a palavra (Type the word): `"aabb"`
