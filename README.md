@@ -1,7 +1,7 @@
 # Post Machine
 A Post–Turing machine is a "program formulation" of a type of Turing machine, comprising a variant of Emil Post's Turing-equivalent model of computation.
 
-# How to run
+## How to run
 
 First, you need to write your program using the language designed to run in this machine simulator, the language mp.
 
